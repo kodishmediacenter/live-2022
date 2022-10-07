@@ -2,7 +2,7 @@
  <channel>
  <name>[COLOR white][B]Lista TV Aberta[/B][/COLOR][COLOR green][B] ||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://supertvaovivo.com/wp-content/uploads/2021/07/tela-de-tv.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/iptv</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/live-2022/main/lista-ch.xml</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
