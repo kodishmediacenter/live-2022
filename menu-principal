@@ -7,11 +7,12 @@
  <info>Listas iptv</info>
  </channel>
  </channels>
+ 
 
 <channels></channels>
 <channel>
 <name>[COLOR white][B]Filmes[/B][/COLOR][COLOR green][B] ||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/Filmes/categoria-filmes</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/live-2022/main/filmes-teste</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
 <fanart></fanart>
 <info></info>
